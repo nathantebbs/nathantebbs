@@ -9,6 +9,5 @@ A code time-tracking app built with Next.js, React, and TypeScript, deployed on 
 [Repository](https://github.com/nathantebbs/devlog)
 
 ## Info
-- Email: [ntebbs@arizona.edu](ntebbs@arizona.edu)
 - [Resume](https://nathantebbs.github.io/resume/)
 - [LinkedIn](https://www.linkedin.com/in/ntebbs/)
