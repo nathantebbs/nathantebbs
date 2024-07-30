@@ -1,7 +1,15 @@
 ## Hi 👋 I'm Nathan 
+Student developer furthering programming skills with a focus on web development.
 
 
-### Education 🎓
+## Current Projects
+
+#### <ins>Devlog</ins>
+A code time-tracking app built with Next.js, React, and TypeScript, deployed on Vercel.
+[Repository](https://github.com/nathantebbs/devlog)
+
+
+## Education 🎓
 I am currently a Computer Science student attending the University of Arizona. Before arriving in Tucson, I earned my Associate in Arts at South Puget Sound Community College during my last two years of high school. This allowed me to get ahead in my degree coursework, enabling me to graduate in the fall of 2025.
 
 ### Coursework 📚
