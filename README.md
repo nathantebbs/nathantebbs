@@ -8,4 +8,4 @@ Student developer furthering programming skills with a focus on web development.
 A code time-tracking app built with Next.js, React, and TypeScript, deployed on Vercel.
 [Repository](https://github.com/nathantebbs/devlog)
 
-## [Resume](https://nathantebbs.github.io/resume/)
+### [Resume](https://nathantebbs.github.io/resume/)
