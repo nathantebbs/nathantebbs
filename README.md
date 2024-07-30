@@ -6,7 +6,7 @@ Student developer furthering programming skills with a focus on web development.
 
 ### <ins>Devlog</ins>
 A code time-tracking app built with Next.js, React, and TypeScript, deployed on Vercel
-[(Repository)](https://github.com/nathantebbs/devlog)
+[(Repository)](https://github.com/nathantebbs/devlog)  [(Website)](https://devlog.work)
 
 ## Info
 - [Resume](https://nathantebbs.github.io/resume/)
