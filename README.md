@@ -1,12 +1,5 @@
 ## Hi 👋 I'm Nathan 
-Student developer furthering programming skills with a focus on web development.
-
-
-## Current Projects
-
-### <ins>Devlog</ins>
-A code time-tracking app built with Next.js, React, and TypeScript, deployed on Vercel
-[(Repository)](https://github.com/nathantebbs/devlog)  [(Website)](https://devlog.work)
+As of spring semester 2025 I am officially one of the UGTAs for [CSc 346](https://dev.ericnewberry.com/csc346/) at the University of Arizona!
 
 ## Info
 - [Resume](https://nathantebbs.github.io/resume/)
