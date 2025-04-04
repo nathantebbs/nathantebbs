@@ -4,7 +4,6 @@ As of spring semester 2025 I am officially one of the UGTAs for [CSc 346](https:
 ## Info
 
 ### Personal
-- [Resume](https://nathantebbs.github.io/resume/)
 - [LinkedIn](https://www.linkedin.com/in/ntebbs/)
 - Email: ntebbs@arizona.edu
 
