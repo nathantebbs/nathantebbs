@@ -1,8 +1,5 @@
-## Hi 👋 I'm Nathan 
+## Hi 👋 I'm Nate
 
-## Info
-- [nathantebbs.com](https://www.nathantebbs.com)
+Systems-focused CS student building production-style Linux services with an emphasis on security, reliability, and operational clarity. Interested in networking, service hardening, and failure-aware design.
+
 - [LinkedIn](https://www.linkedin.com/in/ntebbs/)
-
-### Other
-- [CSc Master Undergraduate Course List](https://docs.google.com/spreadsheets/d/1NtzxKD2xZHA3TF8J129-_hHM_E8TWjEh/edit?gid=824299797#gid=824299797)
