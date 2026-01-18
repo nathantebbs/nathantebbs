@@ -4,4 +4,5 @@ Systems-focused CS student building production-style Linux services with an emph
 
 - [LinkedIn](https://www.linkedin.com/in/ntebbs/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathantebbs&layout=compact&theme=transparent)
+## Stats
+[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathantebbs)](https://github.com/anuraghazra/github-readme-stats)
