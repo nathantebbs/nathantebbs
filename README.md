@@ -4,7 +4,7 @@ Systems-focused CS student building production-style Linux services with an emph
 
 ## Stats
 
-![Top Langs](https://github-readme-stats-eta-pink-74.vercel.app/api/top-langs/?username=nathantebbs&layout=compact&hide_title=true&theme=dark)![Stats](https://github-readme-stats-eta-pink-74.vercel.app/api?username=nathantebbs&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats-eta-pink-74.vercel.app/api/top-langs/?username=nathantebbs&layout=compact&hide_title=true&theme=dark)![Stats](https://github-readme-stats-eta-pink-74.vercel.app/api?username=nathantebbs&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=dark)
 
 ## Projects
 
