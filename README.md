@@ -2,7 +2,26 @@
 
 Systems-focused CS student building production-style Linux services with an emphasis on security, reliability, and operational clarity. Interested in networking, service hardening, and failure-aware design.
 
+## Projects
+
+- gaterelay: Secure Linux TCP relay
+- c2: Command-and-control simulator for controlled lab environments
+- DSAinC: Data structures & algorithms in C
+- SocketsInC: Simple C socket API implementation
+
+## Coursework
+
+- CSc 352 Systems Programming & UNIX
+- CSc 425 Computer Networking
+- CSc 372 Comparative Programming Languages
+- CSc 453 Compilers
+- CSc 460 Database Design
+
+## Where to find me
+
 - [LinkedIn](https://www.linkedin.com/in/ntebbs/)
+- [Codeberg](https://codeberg.org/nathantebbs)
 
 ## Stats
-[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathantebbs)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats-eta-pink-74.vercel.app/api/top-langs/?username=nathantebbs&layout=compact&hide_title=true&theme=dark)![Stats](https://github-readme-stats-eta-pink-74.vercel.app/api?username=nathantebbs&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=dark)
