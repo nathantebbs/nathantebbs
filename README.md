@@ -12,7 +12,7 @@ Systems-focused CS student building production-style Linux services with an emph
 - c2: Command-and-control simulator for controlled lab environments
 - DSAinC: Data structures & algorithms in C
 - SocketsInC: Simple C socket API implementation
-- Tucson Urban Crime Data Analysis: Multivariate analysis based on open data on crime, location, and streetlight density in Tucson, Arizona.
+- Tucson Urban Crime Data Analysis: Multivariate analysis based on open data on crime, location, and streetlight density in Tucson, Arizona
 
 ## Coursework
 
