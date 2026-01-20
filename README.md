@@ -2,9 +2,6 @@
 
 Systems-focused CS student building production-style Linux services with an emphasis on security, reliability, and operational clarity. Interested in networking, service hardening, and failure-aware design.
 
-## Stats
-
-![Top Langs](https://github-readme-stats-eta-pink-74.vercel.app/api/top-langs/?username=nathantebbs&layout=compact&hide_title=true&theme=dark)![Stats](https://github-readme-stats-eta-pink-74.vercel.app/api?username=nathantebbs&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=dark)
 
 ## Projects
 
@@ -21,6 +18,29 @@ Systems-focused CS student building production-style Linux services with an emph
 - CSc 372 Comparative Programming Languages
 - CSc 453 Compilers
 - CSc 460 Database Design
+
+## Stats
+
+<table border="0" style="border: none;">
+<tr>
+  <th>Top Languages</th>
+  <th>GitHub Profile</th>
+</tr>
+<tr>
+  <td style="border: none;">
+    <img
+      width="100%"
+      src="https://github-readme-stats-eta-pink-74.vercel.app/api/top-langs/?username=nathantebbs&layout=compact&hide_title=true&theme=dark"
+    />
+  </td>
+  <td style="border: none;">
+    <img
+      width="100%"
+      src="https://github-readme-stats-eta-pink-74.vercel.app/api?username=nathantebbs&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=dark"
+    />
+  </td>
+</tr>
+</table>
 
 ## Where to find me
 
