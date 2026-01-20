@@ -17,6 +17,7 @@ Systems-focused CS student building production-style Linux services with an emph
 - CSc 425 Computer Networking
 - CSc 372 Comparative Programming Languages
 - CSc 453 Compilers
+- CSc 445 Algorithms
 - CSc 460 Database Design
 
 ## Stats
