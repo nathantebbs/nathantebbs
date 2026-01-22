@@ -16,9 +16,11 @@ Systems-focused CS student building production-style Linux services with an emph
 - CSc 352 Systems Programming & UNIX
 - CSc 425 Computer Networking
 - CSc 372 Comparative Programming Languages
+- CSc 346 Cloud Computing (Spring 2024)
 - CSc 453 Compilers
 - CSc 445 Algorithms
 - CSc 460 Database Design
+- CSc 391 Preceptorship (Spring 2025 CSc 346 Cloud Computing)
 
 ## Stats
 
@@ -48,5 +50,3 @@ Systems-focused CS student building production-style Linux services with an emph
 - [nathantebbs.com](https://nathantebbs.com)
 - [LinkedIn](https://www.linkedin.com/in/ntebbs/)
 - [Codeberg](https://codeberg.org/nathantebbs)
-
-
