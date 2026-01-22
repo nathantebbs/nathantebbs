@@ -45,6 +45,7 @@ Systems-focused CS student building production-style Linux services with an emph
 
 ## Where to find me
 
+- [nathantebbs.com](https://nathantebbs.com)
 - [LinkedIn](https://www.linkedin.com/in/ntebbs/)
 - [Codeberg](https://codeberg.org/nathantebbs)
 
