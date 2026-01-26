@@ -33,7 +33,7 @@ Systems-focused CS student building production-style Linux services with an emph
   <td style="border: none;">
     <img
       width="100%"
-      src="https://github-readme-stats-eta-pink-74.vercel.app/api/top-langs/?username=nathantebbs&layout=compact&hide_title=true&theme=dark"
+      src="https://github-readme-stats-eta-pink-74.vercel.app/api/top-langs/?username=nathantebbs&layout=compact&v=20260126&hide_title=true&theme=dark"
     />
   </td>
   <td style="border: none;">
