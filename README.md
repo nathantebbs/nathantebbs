@@ -2,26 +2,6 @@
 
 Systems-focused CS student building production-style Linux services with an emphasis on security, reliability, and operational clarity. Interested in networking, service hardening, and failure-aware design.
 
-
-## Projects
-
-- gaterelay: Secure Linux TCP relay
-- c2: Command-and-control simulator for controlled lab environments
-- DSAinC: Data structures & algorithms in C
-- SocketsInC: Simple C socket API implementation
-- Tucson Urban Crime Data Analysis: Multivariate analysis based on open source crime, location, and streetlight density data in Tucson, Arizona
-
-## Coursework
-
-- CSc 352 Systems Programming & UNIX
-- CSc 425 Computer Networking
-- CSc 372 Comparative Programming Languages
-- CSc 346 Cloud Computing (Spring 2024)
-- CSc 391 Preceptorship (Spring 2025 CSc 346 Cloud Computing)
-- CSc 453 Compilers
-- CSc 445 Algorithms
-- CSc 460 Database Design
-
 ## Stats
 
 <table border="0" style="border: none;">
@@ -44,6 +24,27 @@ Systems-focused CS student building production-style Linux services with an emph
   </td>
 </tr>
 </table>
+
+
+## Projects
+
+- handmadehero/raynob: Both adventures into game development with different focuses
+- gaterelay: Secure Linux TCP relay
+- c2: Command-and-control simulator for controlled lab environments
+- DSAinC: Data structures & algorithms in C
+- SocketsInC: Simple C socket API implementation
+- Tucson Urban Crime Data Analysis: Multivariate analysis based on open source crime, location, and streetlight density data in Tucson, Arizona
+
+## Coursework
+
+- CSc 352 Systems Programming & UNIX
+- CSc 425 Computer Networking
+- CSc 372 Comparative Programming Languages
+- CSc 346 Cloud Computing (Spring 2024)
+- CSc 391 Preceptorship (Spring 2025 CSc 346 Cloud Computing)
+- CSc 453 Compilers
+- CSc 445 Algorithms
+- CSc 460 Database Design
 
 ## Where to find me
 
